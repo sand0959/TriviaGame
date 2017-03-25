@@ -22,13 +22,13 @@ var triviaAnswers = [
     ["Q-Tip", "The Neptunes", "Rick Rubin", "The Dust Brothers"]
 ];
 var triviaImgs = ["<img class='center-block img-right' src='assets/images/reasonabledoubt.jpg'>",
-    "<img class='center-block img-right' src='assets/images/ATCQ.jpg'>",
-    "<img class='center-block img-right' src='assets/images/2pac.jpg'>",
-    "<img class='center-block img-right' src='assets/images/blackstar.jpg'>",
-    "<img class='center-block img-right' src='assets/images/outkast.jpg'>",
-    "<img class='center-block img-right' src='assets/images/wutang.jpg'>",
-    "<img class='center-block img-right' src='assets/images/nas.jpg'>",
-    "<img class='center-block img-right' src='assets/images/beastie.jpg'>"
+    "<img class='center-block img-right img-responsive' src='assets/images/ATCQ.jpg'>",
+    "<img class='center-block img-right img-responsive' src='assets/images/2pac.jpg'>",
+    "<img class='center-block img-right img-responsive' src='assets/images/blackstar.jpg'>",
+    "<img class='center-block img-right img-responsive' src='assets/images/outkast.jpg'>",
+    "<img class='center-block img-right img-responsive' src='assets/images/wutang.jpg'>",
+    "<img class='center-block img-right img-responsive' src='assets/images/nas.jpg'>",
+    "<img class='center-block img-right img-responsive' src='assets/images/beastie.jpg'>"
 ];
 var wrongImg = "<img class='center-block img-wrong' src='https://media.giphy.com/media/y8mThMjGBrQpG/200w_d.gif'>"
 var correctTriviaAnswers = ["A. Reasonable Doubt",
